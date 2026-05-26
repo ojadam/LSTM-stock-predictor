@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.csv
+model.pth
+.env
+.venv/
+venv/
